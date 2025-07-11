@@ -32,7 +32,7 @@ public class Sumatorio {
 
         suma = 0;
         //REVISAR
-        //Practicar GIT
+        //Problema de Git resuelto
         for (int i = s1.length - 1; i >= 0; i--) {
             suma += s1[1];
         }
