@@ -4,7 +4,7 @@ public class SumatorioTest {
     @Test
     void testLanzar() {
         Sumatorio sumatorio = new Sumatorio();
-        sumatorio.lanzar();
 
+        sumatorio.lanzar();
     }
 }
